@@ -5,6 +5,6 @@
 	$pass = "";
 	$db = "db_yasoftware";//nama database
 
-	$con = mysqli_connect($host, $user, $pass, $db);
+	$con = ($host, $user, $pass, $db);
 
 ?>
